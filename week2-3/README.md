@@ -1,4 +1,4 @@
-# Week 2 – Greedy & Dynamic Programming
+# Week 2 & 3 – Greedy & Dynamic Programming
 
 ## 📖 Reading
 
